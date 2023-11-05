@@ -1,0 +1,5 @@
+# Ignore virtual environment directory
+venv/
+
+# Ignore contents of the trained_model directory
+trained_model/*
